@@ -15,4 +15,10 @@ class $modify(MyPlayLayer, PlayLayer) {
             log::info("RAGE MODE");
         }
         else if (deaths >= 5) {
-            log::info("FRUSTRATION
+            log::info("FRUSTRATION MODE");
+        }
+        else {
+            log::info("CALM MODE");
+        }
+    }
+};
