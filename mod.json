@@ -1,1 +1,7 @@
-
+{
+  "id": "com.mobile.emotionmode",
+  "name": "Emotion Mode",
+  "version": "1.0.0",
+  "developer": "Alikhan",
+  "description": "Emotion Mode for Geometry Dash"
+}
